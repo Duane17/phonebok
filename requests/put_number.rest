@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/persons/664dc4ce4c9cccf723bf13da
+Content-Type: application/json
+
+{
+    "name": "Duane Gadama",
+    "number": "265-88251948"
+}
